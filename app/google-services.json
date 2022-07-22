@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1019373757091",
+    "project_id": "uploadimages-1f761",
+    "storage_bucket": "uploadimages-1f761.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019373757091:android:ad96a130b434401be65516",
+        "android_client_info": {
+          "package_name": "com.ocps.takephotofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019373757091-u2sv07cbgql0bra86o9d7ve62g2v5tvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8PwVKyISM4KUbk9yJilq3EDrfWKqPP2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019373757091-u2sv07cbgql0bra86o9d7ve62g2v5tvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
